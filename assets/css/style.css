@@ -1,3 +1,26 @@
 .bodystyle {
-    background-color: #FFFFFF;
+    background-color: lightskyblue;
+}
+
+#mypic {
+    border-radius: 75%;
+    -webkit-filter: drop-shadow(8px 8px 10px green);
+    filter: drop-shadow(8px 8px 10px green);
+    margin: 29px;
+}
+
+#portimg {
+    -webkit-filter: drop-shadow(8px 8px 10px green);
+    filter: drop-shadow(8px 8px 10px green);
+    padding: 10px;
+}
+
+.shadow {
+    -webkit-filter: drop-shadow(8px 8px 10px green);
+    filter: drop-shadow(8px 8px 10px green);
+}
+
+#statecard {
+    -webkit-filter: drop-shadow(8px 8px 10px green);
+    filter: drop-shadow(8px 8px 10px green);
 }
