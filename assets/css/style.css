@@ -7,6 +7,10 @@
     padding: 10px;
 }
 
+.navbar {
+    position: fixed;
+}
+
 #mypic {
     border-radius: 75%;
     -webkit-filter: drop-shadow(8px 8px 10px green);
