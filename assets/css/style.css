@@ -7,8 +7,9 @@
     padding: 10px;
 }
 
-.navbar {
-    position: fixed;
+#navigation {
+    position: static;
+    top: 0;
 }
 
 #mypic {
