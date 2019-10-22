@@ -1,5 +1,5 @@
 .bodystyle {
-    background-color: linen;
+    background-color: ;
     
 }
 
@@ -33,4 +33,14 @@
 #statecard {
     -webkit-filter: drop-shadow(8px 8px 10px green);
     filter: drop-shadow(8px 8px 10px green);
+}
+
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #212529;
+  color: white;
+  text-align: center;
 }
